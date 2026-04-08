@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/devasc/EV1%20VASQUEZCAMPOS/%23Script%20requerimiento%20B:%20Uso%20de%20python" added="2026-04-08T20:06:35Z" modified="2026-04-08T20:06:35Z" visited="2026-04-08T20:06:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2026-04-08T20:06:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/devasc/EV1%20VASQUEZCAMPOS/%23Script%20requerimiento%20B:%20Uso%20de%20python.py" added="2026-04-08T20:08:23Z" modified="2026-04-08T20:14:49Z" visited="2026-04-08T20:08:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2026-04-08T20:08:23Z" count="1"/>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2026-04-08T20:13:51Z" count="2"/>
+          <bookmark:application name="Caja" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env --no-sandbox --unity-launch %F&apos;" modified="2026-04-08T20:14:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/devasc/EV1%20VASQUEZCAMPOS/ACL.py" added="2026-04-08T20:09:37Z" modified="2026-04-08T20:09:37Z" visited="2026-04-08T20:09:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2026-04-08T20:09:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/devasc/json" added="2026-04-08T20:23:12Z" modified="2026-04-08T20:23:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2026-04-08T20:23:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/devasc/EV1%20VASQUEZCAMPOS/myfile.json" added="2026-04-08T20:24:51Z" modified="2026-04-08T20:24:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2026-04-08T20:24:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

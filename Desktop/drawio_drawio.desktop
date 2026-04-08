@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-SnapInstanceName=drawio
+Name=draw.io
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/drawio_drawio.desktop /snap/bin/drawio
+Terminal=false
+Type=Application
+Icon=/snap/drawio/current/meta/gui/icon.png
+StartupWMClass=draw.io
+Comment=diagrams.net desktop
+MimeType=application/vnd.jgraph.mxfile;application/vnd.visio;
+Categories=Graphics;
+StartupNotify=true

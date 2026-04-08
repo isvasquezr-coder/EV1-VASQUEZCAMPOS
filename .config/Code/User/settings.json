@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "python3",
+    "window.zoomLevel": 2,
+    "extensions.autoUpdate": false,
+    "telemetry.enableTelemetry": false,
+    "update.mode": "none",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}

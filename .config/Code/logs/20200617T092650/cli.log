@@ -1,0 +1,7 @@
+[2020-06-17 09:26:50.608] [cli] [info] main {"_":[],"diff":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"help":false,"list-extensions":false,"show-versions":false,"install-extension":["ms-python.python"],"version":false,"verbose":false,"status":false,"prof-startup":false,"disable-extensions":false,"disable-gpu":false,"telemetry":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"disable-restore-windows":false,"disable-telemetry":false,"disable-updates":false,"disable-crash-reporter":false,"disable-user-env-probe":false,"skip-add-to-recently-opened":false,"unity-launch":false,"open-url":false,"file-write":false,"file-chmod":false,"driver-verbose":false,"force":false,"do-not-sync":false,"trace":false,"force-user-env":false,"no-proxy-server":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false}
+[2020-06-17 09:26:51.560] [cli] [info] Installing extension: ms-python.python
+[2020-06-17 09:27:03.508] [cli] [info] Downloaded extension: ms-python.python /tmp/e2d46a14-c829-4b01-a09c-7f551b4d0dd8
+[2020-06-17 09:27:08.542] [cli] [info] Extracted extension to /home/devasc/.vscode/extensions/.ms-python.python-2020.6.88468: ms-python.python
+[2020-06-17 09:27:08.542] [cli] [info] Renamed to /home/devasc/.vscode/extensions/ms-python.python-2020.6.88468
+[2020-06-17 09:27:08.562] [cli] [info] Installation completed. ms-python.python
+[2020-06-17 09:27:08.576] [cli] [info] Extensions installed successfully: ms-python.python

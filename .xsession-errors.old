@@ -1,0 +1,74 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/900/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/devasc/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-mate:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US:
+dbus-update-activation-environment: setting DESKTOP_SESSION=mate
+dbus-update-activation-environment: setting GTK_MODULES=appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module
+dbus-update-activation-environment: setting PWD=/home/devasc
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=mate
+dbus-update-activation-environment: setting LOGNAME=devasc
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/900/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/devasc/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/devasc
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/devasc
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=MATE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting QT_DEVICE_PIXEL_RATIO=auto
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting USER=devasc
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting PT7HOME=/opt/pt
+dbus-update-activation-environment: setting UBUNTU_MENUPROXY=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/900
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=mate
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/home/devasc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=mate
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/900/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+VBoxClient: error: No service specified. Quitting because nothing to do!
+VBoxClient: error: unrecognized option '--display'
+mate-session-check-accelerated: GL Helper exited with code 512
+libEGL warning: DRI2: failed to authenticate
+mate-session-check-accelerated: GLES Helper exited with code 512
+** Message: 19:02:31.726: couldn't access control socket: /run/user/900/keyring/control: No such file or directory
+mate-session[1840]: WARNING: Unable to find provider '' of required component 'dock'
+Window manager warning: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+Window manager warning: Log level 128: Name com.canonical.AppMenu.Registrar does not exist on the session bus
+
+
+** (process:2204): WARNING **: 19:02:32.672: could not find the desktop file for 'org.gnome.Calendar.desktop'
+VBoxClient: error: No service specified. Quitting because nothing to do!
+VBoxClient: error: unrecognized option '--display'
+
+(process:2204): Indicator-Datetime-WARNING **: 19:02:32.847: Unrecognized TZID: 'Etc/UTC'
+
+(process:2204): Indicator-Datetime-WARNING **: 19:02:32.847: Unrecognized TZID: 'Etc/UTC'
+
+(process:2204): Indicator-Datetime-WARNING **: 19:02:32.874: Unrecognized TZID: 'Etc/UTC'
+vmware-user: could not open /proc/fs/vmblock/dev
+
+(caja:2176): Gtk-WARNING **: 19:02:33.044: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+
+(process:2313): indicator-sound-WARNING **: 19:02:33.060: volume-control-pulse.vala:744: Unable to connect to dbus server at 'unix:path=/run/user/900/pulse/dbus-socket': Could not connect: No such file or directory
+RuntimeError: object at 0x7f3819d76800 of type RenameMenu is not initialized
+
+(process:2204): Indicator-Datetime-WARNING **: 19:02:34.641: Unrecognized TZID: 'Etc/UTC'
+
+(process:2204): Indicator-Datetime-WARNING **: 19:02:34.641: Unrecognized TZID: 'Etc/UTC'
+
+(process:2204): Indicator-Datetime-WARNING **: 19:02:34.642: Unrecognized TZID: 'Etc/UTC'
+INFO:root:The HUD is disabled via org.mate.hud in gsettings.

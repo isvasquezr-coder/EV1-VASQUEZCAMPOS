@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-SnapInstanceName=postman
+Type=Application
+Name=Postman
+Icon=/snap/postman/current/usr/share/Postman/resources/app/assets/icon.png
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/postman_postman.desktop /snap/bin/postman %U
+Categories=Development;
+MimeType=x-scheme-handler/postman
+Terminal=false
+StartupNotify=true

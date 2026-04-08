@@ -1,0 +1,3 @@
+[pyats.cli.commands.validate]
+validate = genie.libs.clean.cli.commands:ValidateClean
+

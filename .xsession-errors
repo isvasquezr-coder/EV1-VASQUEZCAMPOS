@@ -1,0 +1,143 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/900/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/devasc/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-mate:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US:
+dbus-update-activation-environment: setting DESKTOP_SESSION=mate
+dbus-update-activation-environment: setting GTK_MODULES=appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module
+dbus-update-activation-environment: setting PWD=/home/devasc
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=mate
+dbus-update-activation-environment: setting LOGNAME=devasc
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/900/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/devasc/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/devasc
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/devasc
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=MATE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting QT_DEVICE_PIXEL_RATIO=auto
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting USER=devasc
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting PT7HOME=/opt/pt
+dbus-update-activation-environment: setting UBUNTU_MENUPROXY=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/900
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=mate
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/home/devasc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=mate
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/900/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+VBoxClient: error: No service specified. Quitting because nothing to do!
+VBoxClient: error: unrecognized option '--display'
+mate-session-check-accelerated: GL Helper exited with code 512
+libEGL warning: DRI2: failed to authenticate
+mate-session-check-accelerated: GLES Helper exited with code 512
+** Message: 19:48:20.835: couldn't access control socket: /run/user/900/keyring/control: No such file or directory
+mate-session[1770]: WARNING: Unable to find provider '' of required component 'dock'
+Window manager warning: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+Window manager warning: Log level 128: Name com.canonical.AppMenu.Registrar does not exist on the session bus
+
+VBoxClient: error: No service specified. Quitting because nothing to do!
+
+** (process:2135): WARNING **: 19:48:22.997: could not find the desktop file for 'org.gnome.Calendar.desktop'
+VBoxClient: error: unrecognized option '--display'
+
+(process:2135): Indicator-Datetime-WARNING **: 19:48:23.177: Unrecognized TZID: 'Etc/UTC'
+
+(process:2135): Indicator-Datetime-WARNING **: 19:48:23.177: Unrecognized TZID: 'Etc/UTC'
+
+(process:2135): Indicator-Datetime-WARNING **: 19:48:23.201: Unrecognized TZID: 'Etc/UTC'
+vmware-user: could not open /proc/fs/vmblock/dev
+
+(caja:2106): Gtk-WARNING **: 19:48:23.318: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+
+(process:2227): indicator-sound-WARNING **: 19:48:23.370: volume-control-pulse.vala:744: Unable to connect to dbus server at 'unix:path=/run/user/900/pulse/dbus-socket': Could not connect: No such file or directory
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+
+(process:2135): Indicator-Datetime-WARNING **: 19:48:26.867: Unrecognized TZID: 'Etc/UTC'
+
+(process:2135): Indicator-Datetime-WARNING **: 19:48:26.867: Unrecognized TZID: 'Etc/UTC'
+
+(process:2135): Indicator-Datetime-WARNING **: 19:48:26.867: Unrecognized TZID: 'Etc/UTC'
+INFO:root:The HUD is disabled via org.mate.hud in gsettings.
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+Gtk-Message: 20:05:18.233: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:05:18.234: Failed to load module "canberra-gtk-module"
+[2970:2970:0408/200518.693085:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[2970:3198:0408/200519.471200:ERROR:object_proxy.cc(632)] Failed to call method: org.freedesktop.DBus.ListActivatableNames: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.75" (uid=900 pid=2970 comm="/snap/chromium/1193/usr/lib/chromium-browser/chrom" label="snap.chromium.chromium (enforce)") interface="org.freedesktop.DBus" member="ListActivatableNames" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+[3187:3187:0408/200522.562583:ERROR:viz_main_impl.cc(152)] Exiting GPU process due to errors during initialization
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+Window manager warning: Log level 16: Visible region is null
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+Window manager warning: Log level 16: Visible region is null
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+Window manager warning: Log level 16: Visible region is null
+Window manager warning: Log level 16: Visible region is null
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+
+(caja:2106): Gtk-CRITICAL **: 20:23:51.076: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:2106): Gtk-CRITICAL **: 20:23:51.076: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:2106): Gtk-CRITICAL **: 20:23:51.076: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:2106): Gtk-CRITICAL **: 20:23:51.076: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:2106): Gtk-CRITICAL **: 20:23:51.076: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:2106): Gtk-CRITICAL **: 20:23:51.076: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+Window manager warning: Log level 16: Visible region is null
+
+(caja:2106): Gtk-CRITICAL **: 20:24:20.046: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:2106): Gtk-CRITICAL **: 20:24:20.047: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:2106): Gtk-CRITICAL **: 20:24:20.047: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:2106): Gtk-CRITICAL **: 20:24:20.047: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:2106): Gtk-CRITICAL **: 20:24:20.047: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:2106): Gtk-CRITICAL **: 20:24:20.047: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+Window manager warning: Log level 16: Visible region is null
+Window manager warning: Log level 16: Visible region is null
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f4ad052b500 of type RenameMenu is not initialized

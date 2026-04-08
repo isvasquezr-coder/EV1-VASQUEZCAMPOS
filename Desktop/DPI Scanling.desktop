@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/usr/share/icons/Humanity/emblems/48/emblem-photos.svg
+Icon[en_US]=mate-panel-launcher
+Exec=xrandr --output Virtual1 --scale 0.8x0.8
+Comment[en_US]=Change scaling
+Name[en_US]=DPI Scanling
+Name=DPI Scanling
+Comment=Change scaling

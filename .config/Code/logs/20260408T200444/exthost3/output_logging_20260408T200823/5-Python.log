@@ -1,0 +1,76 @@
+User belongs to experiment group 'AlwaysDisplayTestExplorer - control'
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'AA_testing - control'
+User belongs to experiment group 'WebHostNotebook - control'
+User belongs to experiment group 'LocalZMQKernel - control'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - control'
+User belongs to experiment group 'CustomEditorSupport - control'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Python interpreter path: /usr/bin/python3
+Starting Jedi Python language engine.
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda --version
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py pylint --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text "~/EV1 VASQUEZCAMPOS/#Script requerimiento B: Uso de python.py"
+cwd: ~/EV1 VASQUEZCAMPOS
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py pylint --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text "~/EV1 VASQUEZCAMPOS/#Script requerimiento B: Uso de python.py"
+cwd: ~/EV1 VASQUEZCAMPOS
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/.vscode/extensions/ms-python.python-2020.6.91350/out/client
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/.vscode/extensions/ms-python.python-2020.6.91350/out/client
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/.vscode/extensions/ms-python.python-2020.6.91350/out/client
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/.vscode/extensions/ms-python.python-2020.6.91350/out/client
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/.vscode/extensions/ms-python.python-2020.6.91350/out/client
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/.vscode/extensions/ms-python.python-2020.6.91350/out/client
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/.vscode/extensions/ms-python.python-2020.6.91350/out/client
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/.vscode/extensions/ms-python.python-2020.6.91350/out/client
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/completion.py
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/completion.py
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.6.91350/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"

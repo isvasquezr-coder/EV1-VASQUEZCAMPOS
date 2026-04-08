@@ -1,0 +1,11 @@
+{
+   "Q2sSfXHblKGx9GS5H+mbMFkUXXFUaP6at4n3UAzWo9A=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1804682141.772503,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1773146141.772506
+   }
+}

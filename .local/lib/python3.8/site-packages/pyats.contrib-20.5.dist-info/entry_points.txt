@@ -1,0 +1,8 @@
+[pyats.topology.loader]
+__pycache__ = pyats.contrib.creators.__pycache__:__Pycache__
+ansible = pyats.contrib.creators.ansible:Ansible
+file = pyats.contrib.creators.file:File
+interactive = pyats.contrib.creators.interactive:Interactive
+netbox = pyats.contrib.creators.netbox:Netbox
+template = pyats.contrib.creators.template:Template
+

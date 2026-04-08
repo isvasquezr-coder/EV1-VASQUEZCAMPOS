@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Terminal
+GenericName=Terminal
+Comment=Use the command line
+TryExec=mate-terminal
+Exec=mate-terminal
+Icon=utilities-terminal
+Type=Application
+Categories=System;GTK;Utility;TerminalEmulator;
+StartupNotify=true

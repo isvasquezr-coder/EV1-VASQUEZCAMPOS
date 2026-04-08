@@ -1,0 +1,3 @@
+[pyats.utils.__legacy_imports__]
+trafficgen = genie.trafficgen:_IMPORTMAP
+

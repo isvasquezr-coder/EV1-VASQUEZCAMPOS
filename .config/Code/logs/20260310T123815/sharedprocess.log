@@ -1,0 +1,39 @@
+[2026-03-10 12:38:20.286] [sharedprocess] [info] main {"machineId":"05cd106bc00a8d78ce333d520f9f690d069937259595bc3433b6a32427b1f3dc","windowId":2}
+[2026-03-10 12:38:20.449] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/devasc/.config/Code/User/snippets'
+[2026-03-10 12:38:28.307] [sharedprocess] [info] Installing extension: ms-python.python
+[2026-03-10 12:38:29.927] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/73d4ec7b-6f7b-48e6-b9fe-1ead1074ec11
+[2026-03-10 12:38:43.025] [sharedprocess] [info] Extracted extension to /home/devasc/.vscode/extensions/.ms-python.python-2020.6.91350: ms-python.python
+[2026-03-10 12:38:43.025] [sharedprocess] [info] Renamed to /home/devasc/.vscode/extensions/ms-python.python-2020.6.91350
+[2026-03-10 12:38:43.029] [sharedprocess] [info] Installation completed. ms-python.python
+[2026-03-10 12:38:43.053] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2026-03-10 12:39:00.318] [sharedprocess] [info] Starting to clean up unused language packs.
+[2026-03-10 12:39:32.973] [sharedprocess] [info] Installing extension: donjayamanne.python-extension-pack
+[2026-03-10 12:39:33.162] [sharedprocess] [info] Downloaded extension: donjayamanne.python-extension-pack /tmp/f59efa5b-f2eb-4e93-8547-e130d74b52f1
+[2026-03-10 12:39:33.205] [sharedprocess] [info] Extracted extension to /home/devasc/.vscode/extensions/.donjayamanne.python-extension-pack-1.6.0: donjayamanne.python-extension-pack
+[2026-03-10 12:39:33.205] [sharedprocess] [info] Renamed to /home/devasc/.vscode/extensions/donjayamanne.python-extension-pack-1.6.0
+[2026-03-10 12:39:33.207] [sharedprocess] [info] Installation completed. donjayamanne.python-extension-pack
+[2026-03-10 12:39:33.435] [sharedprocess] [info] Installing extension: wholroyd.jinja
+[2026-03-10 12:39:33.435] [sharedprocess] [info] Installing extension: magicstack.magicpython
+[2026-03-10 12:39:33.588] [sharedprocess] [info] Installing extension: batisteo.vscode-django
+[2026-03-10 12:39:33.589] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2026-03-10 12:39:33.629] [sharedprocess] [info] Downloaded extension: wholroyd.jinja /tmp/52be348e-5c2a-4d4f-8ef0-03d9c5cf16ea
+[2026-03-10 12:39:33.684] [sharedprocess] [info] Downloaded extension: magicstack.magicpython /tmp/ac47aa6c-fbdf-4dea-b4fd-37dad7115dc1
+[2026-03-10 12:39:33.716] [sharedprocess] [info] Extracted extension to /home/devasc/.vscode/extensions/.wholroyd.jinja-0.0.8: wholroyd.jinja
+[2026-03-10 12:39:33.717] [sharedprocess] [info] Renamed to /home/devasc/.vscode/extensions/wholroyd.jinja-0.0.8
+[2026-03-10 12:39:33.720] [sharedprocess] [info] Installation completed. wholroyd.jinja
+[2026-03-10 12:39:33.728] [sharedprocess] [info] Extensions installed successfully: wholroyd.jinja
+[2026-03-10 12:39:34.546] [sharedprocess] [info] Downloaded extension: batisteo.vscode-django /tmp/d64951eb-3985-41f5-80eb-8748f7071e9f
+[2026-03-10 12:39:34.953] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/12ebd7f4-361e-4420-b92a-72d42a52e68f
+[2026-03-10 12:39:35.930] [sharedprocess] [info] Extracted extension to /home/devasc/.vscode/extensions/.magicstack.magicpython-1.1.0: magicstack.magicpython
+[2026-03-10 12:39:35.937] [sharedprocess] [info] Renamed to /home/devasc/.vscode/extensions/magicstack.magicpython-1.1.0
+[2026-03-10 12:39:35.943] [sharedprocess] [info] Installation completed. magicstack.magicpython
+[2026-03-10 12:39:35.968] [sharedprocess] [info] Extensions installed successfully: magicstack.magicpython
+[2026-03-10 12:39:37.110] [sharedprocess] [info] Extracted extension to /home/devasc/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.14: visualstudioexptteam.vscodeintellicode
+[2026-03-10 12:39:37.111] [sharedprocess] [info] Renamed to /home/devasc/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.14
+[2026-03-10 12:39:37.113] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2026-03-10 12:39:37.126] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2026-03-10 12:39:41.460] [sharedprocess] [info] Extracted extension to /home/devasc/.vscode/extensions/.batisteo.vscode-django-0.20.0: batisteo.vscode-django
+[2026-03-10 12:39:41.460] [sharedprocess] [info] Renamed to /home/devasc/.vscode/extensions/batisteo.vscode-django-0.20.0
+[2026-03-10 12:39:41.462] [sharedprocess] [info] Installation completed. batisteo.vscode-django
+[2026-03-10 12:39:41.481] [sharedprocess] [info] Extensions installed successfully: batisteo.vscode-django
+[2026-03-10 12:39:41.482] [sharedprocess] [info] Extensions installed successfully: donjayamanne.python-extension-pack
