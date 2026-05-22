@@ -1,0 +1,1 @@
+{"isPartitionDirty":"true","partitions":{"default":{"id":"default"}},"users":{},"activePartition":"default","migrationCompleted":true,"v8PartitionsNamespaceMeta":{"users":{"activePartition":null}},"v8Partitions":{"default":{"context":{"namespace":"scratchPad","userId":0,"teamId":0},"meta":{}}}}
